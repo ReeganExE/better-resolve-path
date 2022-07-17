@@ -1,0 +1,25 @@
+{
+  "name": "better-resolve-path",
+  "version": "1.0.2",
+  "description": "An opt-in resolve path function for babel config. It leaves built-in modules and node_modules untouched.",
+  "main": "index.js",
+  "keywords": [
+    "resolvePath",
+    "Ninh Pham",
+    "ReeganExE"
+  ],
+  "author": "Ninh Pham",
+  "license": "ISC",
+  "peerDependencies": {
+    "resolve": "1.22.1",
+    "babel-plugin-module-resolver": "4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReeganExE/better-resolve-path"
+  },
+  "bugs": {
+    "url": "https://github.com/ReeganExE/better-resolve-path/issues"
+  },
+  "homepage": "https://github.com/ReeganExE/better-resolve-path"
+}
